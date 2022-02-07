@@ -1,0 +1,22 @@
+body{
+    background-color: gray;
+    
+    }
+    
+    #divmain{
+    background-color: azure;
+    text-align: center;
+    padding: 200px 100px 200px 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 100px;
+    margin-bottom:  100px;
+    font-size: large;
+    }
+
+    button{
+        border-radius: 100px ;
+        width: 5%;
+        background-color: rgb(213, 255, 24);
+        
+    }
